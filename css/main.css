@@ -1,0 +1,63 @@
+.navbar.navbar-roja {
+  background-color: #E43E3E !important;
+  border-bottom: 3px solid #46c8be;
+}
+
+.navbar-toggler-icon {
+  display: none;
+}
+
+h1 {
+  font-size: 1.9em;
+  color: #fff;
+}
+
+h1 span {
+  background-color: #E43E3E;
+  padding: 6px;
+}
+
+p.parrafo {
+  color: #320046;
+}
+
+a.enlace-app {
+  color: #E43E3E;
+}
+
+.card-body {
+  border-top: 2px solid #eee;
+}
+
+.div-descarga {
+  display: flex;
+  justify-content: center;
+}
+
+.card-footer {
+  background-color: #46c8be;
+}
+
+.card-footer a {
+  color: #fff;
+  font-size: 1.1em;
+}
+
+.fila-iconos {
+  float: right;
+}
+
+img.icono-android, 
+img.icono-chromecast {
+  width: 20px; 
+}
+
+img.icono-android {
+  filter: invert(100%) sepia(0%) saturate(7491%) hue-rotate(20deg) brightness(99%) contrast(91%);
+  height: 18px;
+}
+
+img.icono-chromecast {
+  filter: invert(100%) sepia(0%) saturate(7491%) hue-rotate(20deg) brightness(99%) contrast(91%);
+  margin-left: 3px;
+}
