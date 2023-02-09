@@ -3,7 +3,8 @@
   border-bottom: 3px solid #46c8be;
 }
 
-.navbar-toggler-icon {
+.navbar-toggler-icon,
+.navbar-toggler {
   display: none;
 }
 
